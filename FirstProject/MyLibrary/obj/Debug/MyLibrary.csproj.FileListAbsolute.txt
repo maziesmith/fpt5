@@ -1,0 +1,5 @@
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\MyLibrary\bin\Debug\MyLibrary.dll
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\MyLibrary\bin\Debug\MyLibrary.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\MyLibrary\obj\Debug\MyLibrary.dll
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\MyLibrary\obj\Debug\MyLibrary.pdb

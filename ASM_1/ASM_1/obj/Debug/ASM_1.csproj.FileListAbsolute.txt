@@ -1,0 +1,6 @@
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_1\ASM_1\bin\Debug\ASM_1.exe.config
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_1\ASM_1\bin\Debug\ASM_1.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_1\ASM_1\bin\Debug\ASM_1.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_1\ASM_1\obj\Debug\ASM_1.csprojResolveAssemblyReference.cache
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_1\ASM_1\obj\Debug\ASM_1.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_1\ASM_1\obj\Debug\ASM_1.pdb

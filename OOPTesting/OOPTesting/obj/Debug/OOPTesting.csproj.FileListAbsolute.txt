@@ -1,0 +1,6 @@
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\OOPTesting\OOPTesting\bin\Debug\OOPTesting.exe.config
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\OOPTesting\OOPTesting\bin\Debug\OOPTesting.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\OOPTesting\OOPTesting\bin\Debug\OOPTesting.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\OOPTesting\OOPTesting\obj\Debug\OOPTesting.csprojResolveAssemblyReference.cache
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\OOPTesting\OOPTesting\obj\Debug\OOPTesting.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\OOPTesting\OOPTesting\obj\Debug\OOPTesting.pdb

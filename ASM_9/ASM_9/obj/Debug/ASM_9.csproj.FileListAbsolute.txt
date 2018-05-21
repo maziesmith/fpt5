@@ -1,0 +1,6 @@
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_9\ASM_9\bin\Debug\ASM_9.exe.config
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_9\ASM_9\bin\Debug\ASM_9.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_9\ASM_9\bin\Debug\ASM_9.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_9\ASM_9\obj\Debug\ASM_9.csprojResolveAssemblyReference.cache
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_9\ASM_9\obj\Debug\ASM_9.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_9\ASM_9\obj\Debug\ASM_9.pdb

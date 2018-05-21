@@ -1,0 +1,8 @@
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\bin\Debug\MyLibrary.dll
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\bin\Debug\MyLibrary.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\FirstProject\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

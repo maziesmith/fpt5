@@ -1,0 +1,5 @@
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_7\ASM_7\bin\Debug\ASM_7.exe.config
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_7\ASM_7\bin\Debug\ASM_7.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_7\ASM_7\bin\Debug\ASM_7.pdb
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_7\ASM_7\obj\Debug\ASM_7.exe
+c:\users\nguyenhongphat0\documents\visual studio 2015\Projects\ASM_7\ASM_7\obj\Debug\ASM_7.pdb
