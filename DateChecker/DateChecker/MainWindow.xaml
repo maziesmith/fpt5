@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DateChecker"
         xmlns:Properties="clr-namespace:DateChecker.Properties" x:Class="DateChecker.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525" ResizeMode="NoResize" Closing="Window_Closing">
+        Title="Date Time Checker" Height="350" Width="525" ResizeMode="NoResize" Closing="Window_Closing">
     <Grid Background="White">
         <Image
 			Source="Images\logo.png"
